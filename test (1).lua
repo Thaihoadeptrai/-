@@ -1355,7 +1355,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/heatdeck123/firarst/m
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 --Function
-local listfastattack = {'0.1'}
+local listfastattack = {'0.25','0.2','0.15','0.1','0.05','0.02','0.015','0.01','0'}
 
     local DropdownDelayAttack = Tabs.Main:AddDropdown("DropdownDelayAttack", {
         Title = "Select Fast Attack",
